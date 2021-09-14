@@ -1,4 +1,5 @@
 # play_store_app_review_analysis
+![playstore](https://user-images.githubusercontent.com/44115595/72658488-4df4c600-3977-11ea-8fc7-263d2884c4e7.png)
 ## 1.	Introduction
 In today’s scenario we can see that mobile apps playing an important role in any individual’s life. With enormous challenge from everywhere throughout the globe, it is important for a designer to realize that he/she is continuing in the right way or not. To hold this income and their place in the market the application designers may need to figure out how to stick into their present position.
 
